@@ -1,4 +1,4 @@
-# 
+# Affinity Photo for macOS automatic Plugin: export presets & version history offers the most advanced Affinity Photo for macOS plugin, with export presets and version history.
 
 
 
